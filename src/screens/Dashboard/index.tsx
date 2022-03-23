@@ -53,7 +53,7 @@ export function Dashboard() {
             amount: "R$ 1.200,00",
             category: {
                 name: 'Casa',
-                icon: 'shoppinh-bag'
+                icon: 'shopping-bag'
             },
             date: "14/04/2021"
         }
